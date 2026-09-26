@@ -122,7 +122,7 @@ Dated: 25th September, 2026
 
 Commit message: `transparency: authorization`.
 
---- Begin ---
+--- eb29cb26ce4f070d04122355b3a7dac7885c7f50 ---
 
 I, TheUselessCreator (GitHub: TheUselessCreator, Discord: theuselesscreator), confirm that:
 
@@ -141,3 +141,7 @@ and with any provider it approaches in connection with its threats
 (hosting, domain, payment processors), on my behalf in this matter.
 
 Dated: 25th September, 2026
+
+---
+
+[replace these brackets with next signature as shown in example above, ignore long hash]
