@@ -122,7 +122,7 @@ Dated: 25th September, 2026
 
 Commit message: `transparency: authorization`.
 
---- eb29cb26ce4f070d04122355b3a7dac7885c7f50 ---
+`--- eb29cb26ce4f070d04122355b3a7dac7885c7f50 ---`
 
 I, TheUselessCreator (GitHub: TheUselessCreator, Discord: theuselesscreator), confirm that:
 
@@ -142,7 +142,7 @@ and with any provider it approaches in connection with its threats
 
 Dated: 25th September, 2026
 
----
+`--- 2028276636d3537e111ca8f508c760050451bcbf ---`
 
 I, Juan Searn Leoson (GitHub: tagdoesnothing, Discord: tagdoesnothing(972926959971627049)), confirm that:
 
@@ -161,3 +161,7 @@ and with any provider it approaches in connection with its threats
 (hosting, domain, payment processors), on my behalf in this matter.
 
 Dated: 26th September, 2026
+
+---
+
+[replace this bracket by next signature, as seen above]
