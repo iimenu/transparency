@@ -206,7 +206,8 @@ and with any provider it approaches in connection with its threats
 
 Dated: 25th September, 2026
 
----
+`--- 6c02060351758a672471946927441a2c59f4a9cd --- `
+
 I, Notlucy / !Lucy (noob1233ii) confirm that:
 
 1. I am a Recipient of the notices dated 25 September 2026 from
@@ -223,4 +224,8 @@ response on my behalf, and to correspond with Goldentrophy Software,
 and with any provider it approaches in connection with its threats
 (hosting, domain, payment processors), on my behalf in this matter.
 
-Dated: 25h September, 2026
+Dated: 26th September, 2026
+
+[signatures sufficient (6/6), date above corrected to 26th as absolute truth)
+
+End.
