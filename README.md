@@ -25,7 +25,7 @@ On September 26, 2026, roughly 3:46 PM UTC, on Discord, user ID 1058128533089689
 
 ---
 
-On September 26, 2026, 3:59 PM, `goldentrophy <admin@goldentrophy.software>` sent: `Re: Response to your notices dated 25 September 2026, "Notice of GNU GPL v3 Violation" and "Cease and Desist"` in response to the previous reply (`response_001`). Verbatim transcript and text is available at [original_001-002_re-objection.md](25_09_26_grayson/original_001-002_re-objection.md) 
+On September 26, 2026, 3:59 PM UTC, `goldentrophy <admin@goldentrophy.software>` sent: `Re: Response to your notices dated 25 September 2026, "Notice of GNU GPL v3 Violation" and "Cease and Desist"` in response to the previous reply (`response_001`). Verbatim transcript and text is available at [original_001-002_re-objection.md](25_09_26_grayson/original_001-002_re-objection.md) 
 
 A single response addressing it was sent and written to this repository shortly after, on September 26th, 2026, and is published here: [response_002.md](25_09_26_grayson/response_corgi_002.md)
 
