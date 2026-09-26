@@ -164,7 +164,7 @@ Dated: 26th September, 2026
 
 ---
 
-I, Drifted._. (GitHub: iiDrifted, Discord: Drifted._.), confirm that:
+I, Drifted (GitHub: iiDrifted, Discord: Drifted._.), confirm that:
 
 1. I am a Recipient of the notices dated 25 September 2026 from
 Goldentrophy Software and an operator of iistupid.com / a contributor
