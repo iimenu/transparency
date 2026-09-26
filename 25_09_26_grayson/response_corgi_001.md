@@ -162,7 +162,7 @@ and with any provider it approaches in connection with its threats
 
 Dated: 26th September, 2026
 
----
+`--- dacac1b0f1640f32828874a6025cae72954bf07e - e515b78a06944e65c6fa2aab7832bfa51f17dc43 ---`
 
 I, Drifted (GitHub: iiDrifted, Discord: Drifted._.), confirm that:
 
@@ -181,3 +181,7 @@ and with any provider it approaches in connection with its threats
 (hosting, domain, payment processors), on my behalf in this matter.
 
 Dated: 25th September, 2026
+
+---
+
+[sufficient signatures] [for any future Recipient signature, replace this entire line with your signature as shown above! commit hash will be added manually in the future]
