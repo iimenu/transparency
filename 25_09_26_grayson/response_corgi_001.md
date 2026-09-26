@@ -32,6 +32,10 @@ The menu is conveyed when the backend serves it. The Corresponding Source for th
 
 Your demand that GPL text be embedded "within the main exe and installer" of ii Engine exceeds the license. Section 4 requires that recipients of the covered work receive a copy of the license, and recipients of the menu receive it. Recipients of ii Engine receive a product containing no covered code.
 
+**2.1.1 Runtime menu source (amendment 26/09/26)**
+
+It has been confirmed to me via text, and via a direct source reference, that ii Engine fetches the menu at runtime directly from GitHub, the Releases page of iireborn/menu. There is therefore no extra source code to be bounded by GPL.
+
 **2.2 Modification notices (§5(a)).**
 
 **The repository now states**, in the README, in a short notice at the top of each source file, and in the NOTICE file at the root, that the work is a derivative of ii's Stupid Menu, the original work of Goldentrophy Software, and the commit history supplies the relevant dates. Section 5(a) requires "prominent notices stating that you modified it, and giving a relevant date". Section 5(b) states that for modified versions this requirement "modifies the requirement in section 4 to 'keep intact all notices'", and the FSF's guidance on license placement states that a clear statement in the README "is legally sufficient *as long as that accompanies the code*".
