@@ -16,8 +16,12 @@ A single response addressing both notices was sent on September 25th, 2026 and i
 On September 26, 2026, roughly 3:34 PM UTC, on Discord, user ID 1189666481278025860, listed as Recipient (theuselesscreator), very clearly and unambiguously notified Grayson/Administrator, via account @crimsoncauldron (user ID 894348631904223232), cited verbatim below:
 
 > please notify grayson via any channel to
+
 > (1) read incoming e-mail from corgi@aster.cx
+
 > (2) acknowledge https://github.com/iireborn/transparency/blob/main/25_09_26_grayson/response_corgi_001.md and determine further action (or lack thereof)
+
+On September 26, 2026, roughly 3:46 PM UTC, on Discord, user ID 1058128533089689721, listed as Recipient (playfab.dll/Lucy), forwarded the exact same message as cited above to the exact same active Discord account of the complainant.
 
 No formal reply has been acknowledged so far as of your reading of this repository.
 
