@@ -13,7 +13,7 @@ The explicit directive to "DO NOT REDISTRIBUTE" on both notices is legally unenf
 
 A single response addressing both notices was sent on September 25th, 2026 and is published here: [response_001.md](25_09_26_grayson/response_corgi_001.md)
 
-On September 26, 2026, roughly 3:34 PM, on Discord, user ID 1189666481278025860, listed as Recipient (theuselesscreator), very clearly and unambiguously notified Grayson/Administrator, via account @crimsoncauldron (user ID 894348631904223232), cited verbatim below:
+On September 26, 2026, roughly 3:34 PM UTC, on Discord, user ID 1189666481278025860, listed as Recipient (theuselesscreator), very clearly and unambiguously notified Grayson/Administrator, via account @crimsoncauldron (user ID 894348631904223232), cited verbatim below:
 
 > please notify grayson via any channel to
 > (1) read incoming e-mail from corgi@aster.cx
