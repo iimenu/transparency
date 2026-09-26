@@ -182,7 +182,7 @@ and with any provider it approaches in connection with its threats
 
 Dated: 25th September, 2026
 
----
+`--- 18c83a0427dd187da064c4483732a6fa056176b9 ---`
 
 I, KingSells (GitHub: TheKing13245, Discord: King.Sells), confirm that:
 
@@ -201,3 +201,7 @@ and with any provider it approaches in connection with its threats
 (hosting, domain, payment processors), on my behalf in this matter.
 
 Dated: 25th September, 2026
+
+---
+
+[signoffs sufficient] [FOR ANY FUTURE SIGNATURE, REMOVE THIS ENTIRE LINE WITH ITS TWO BRACKETS, AND REPLACE IT WITH YOUR SIGNATURE AS SHOWN IN THE EXAMPLES ABOVE!]
