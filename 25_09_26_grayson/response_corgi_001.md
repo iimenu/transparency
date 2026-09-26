@@ -184,4 +184,20 @@ Dated: 25th September, 2026
 
 ---
 
-[sufficient signatures] [for any future Recipient signature, replace this entire line with your signature as shown above! commit hash will be added manually in the future]
+I, KingSells (GitHub: TheKing13245, Discord: King.Sells), confirm that:
+
+1. I am a Recipient of the notices dated 25 September 2026 from
+Goldentrophy Software and an operator of iistupid.com / a contributor
+to github.com/iireborn.
+
+2. I have read the response dated 25th September, 2026 published at
+transparency/25_09_26_grayson/response_corgi_001.md, in full.
+
+3. I agree with that response in full and object to no part of it.
+
+4. I authorize Florian Kolb (corgisolutions) to send that
+response on my behalf, and to correspond with Goldentrophy Software,
+and with any provider it approaches in connection with its threats
+(hosting, domain, payment processors), on my behalf in this matter.
+
+Dated: 25th September, 2026
