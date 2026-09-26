@@ -29,6 +29,8 @@ On September 26, 2026, 3:59 PM UTC, `goldentrophy <admin@goldentrophy.software>`
 
 A single response addressing it was sent and written to this repository shortly after, on September 26th, 2026, and is published here: [response_002.md](25_09_26_grayson/response_corgi_002.md)
 
+Forwarded same day, September 26, 2026, immediately, on Discord, by user ID 1189666481278025860, listed as Recipient (theuselesscreator): very clearly and unambiguously notified Grayson/Administrator, via account @crimsoncauldron (user ID 894348631904223232) of `response_002` being transmitted and published. 
+
 No formal reply to `response_002` has been acknowledged so far as of your reading of this repository.
 
 ## Contents
