@@ -4,7 +4,7 @@ Around 26-27 September 2026, members of the Poison (formerly Seralyth) team alle
 
 - snake (owner of Poison), 05:47 UTC, 27 September: "ian ratted people in tha past including ii like 3 months ago and has the ability to rat all ur users at any time"
 - snake, 20:19 UTC: "i just dont think giving a ratter access to rce users who also threatened one of ur admins saying he'd rat them is a good idea"
-- slimeydeity and spies, from 20:26 UTC: the installer "runs as admin" and "doesnt need that", and the hosted script URL can "be modified at any moment he wants"
+- slimeydeity and **spies (lucent)**, from 20:26 UTC: the installer "runs as admin" and "doesnt need that", and the hosted script URL can "be modified at any moment he wants"
 
 The allegations, and what the published script actually does:
 
@@ -16,11 +16,11 @@ The allegations, and what the published script actually does:
 
 The question "can you, or can you not, point out the malicious material and its location within my powershell installer, or in any parts of ii reborn, beyond theoretical concerns" was put to snake and spies repeatedly between 21:50 and 22:08 UTC on 27 September 2026, with a stated default that silence would be read as "no". snake did not answer yes or no. The recorded positions, verbatim:
 
-- spies, 21:24 UTC: "**we said it was suspicious**"
+- **spies (lucent)**, 21:24 UTC: "**we said it was suspicious**"
 - spies, 21:50 UTC: "**we never claimed that your installer was currently malware**, we pointed out the fact of which you could (at any point in time) replace the file with something malicious and people wouldnt know until others have been effected"
-- snake, 21:24 UTC: "that is true", in response to "i dont think we ever said that you ALREADY ratted it", and "if the user trusts it then be it"
+- **snake**, 21:24 UTC: "that is true", in response to "i dont think we ever said that you ALREADY ratted it", and "if the user trusts it then be it"
 - snake, 21:56 UTC: "if the user wishes to run software made by a malware developer that is fine in my books as they are trusting the risk that goes by it"
-- slimeydeity, 21:41 UTC: "in my opinion if you werent trying to rat you wouldnt care that much", stated expressly as opinion
+- **slimeydeity**, 21:41 UTC: "in my opinion if you werent trying to rat you wouldnt care that much", stated expressly as opinion
 
 An independent reading of the script by a team member, 21:26 UTC: "**the installer is not a rat** it runs as admin after it first fails which is rare of a shell command just randomly breaking."
 
