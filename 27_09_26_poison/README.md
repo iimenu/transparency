@@ -58,7 +58,7 @@ in this matter.
 Dated: 27th September, 2026
 ```
 
----
+`--- b67cd74b2f8e830bcec0c292796748fb603c15fc --- `
 
 I, TheUselessCreator (GitHub: TheUselessCreator, Discord: theuselesscreator confirm that:
 
@@ -81,3 +81,7 @@ regarding any future concerns, accusations, and threats, on my behalf
 in this matter.
 
 Dated: 27th September, 2026
+
+---
+
+[replace this bracket]
