@@ -28,7 +28,7 @@ An independent reading of the script by a team member, 21:26 UTC: "**the install
 
 **Effect on the project.** Per the account of the then head administrator (@iiDrifted) at 05:58 UTC on 27 September 2026, terms conveyed from the Poison side included getting the installer's developer (@corgisolutions/ian) "out of the picture entirely" and removing the 1.1.0 changes (same developer), on the **theory** that he "might still have access to pushing an update thatll rat everyone". Repository privileges were removed and the installer was modified on that basis, but the modification was reverted the same day. This is recorded because material action was taken on accusations that were never substantiated in the exchange above.
 
-**Record.** The complete transcript is published at [27_09_26_poison/transcript.html](27_09_26_poison/transcript.html), unaltered, together with its [assets](27_09_26_poison/assets/). Messages deleted during the conversation appear as deleted in the export, nothing has been removed. **No malicious material has been identified in the installer or the menu as of your reading of this repository.** Future accusations are to be submitted by email with specifics, meaning file, function, and behavior, and will be published here together with any response, refer to root README.md.
+**Record.** The complete transcript is published at [27_09_26_poison/transcript.html](transcript.html), unaltered, together with its [assets](assets/). Messages deleted during the conversation appear as deleted in the export, nothing has been removed. **No malicious material has been identified in the installer or the menu as of your reading of this repository.** Future accusations are to be submitted by email with specifics, meaning file, function, and behavior, and will be published here together with any response, refer to root README.md.
 
 ## Authorization
 
@@ -43,10 +43,10 @@ regarding malware concerns and an operator of iistupid.com / a contributor
 to github.com/iireborn.
 
 2. I have read this summary dated 27th September, 2026 published at
-https://github.com/iireborn/transparency/27_09_26_poison/README.md in full.
+[https://github.com/iireborn/transparency/27_09_26_poison/README.md](https://github.com/iireborn/transparency/27_09_26_poison/README.md) in full.
 
 3. I stand by my witness statement present in the Discord group chat
-export, introduced in commit 640e65d63c18d3b152506b484495c3bfa3d1f041.
+export, introduced in commit [640e65d63c18d3b152506b484495c3bfa3d1f041](https://github.com/iireborn/transparency/commit/640e65d63c18d3b152506b484495c3bfa3d1f041).
 
 4. I wrote my statement voluntarily, under no pressure, and I was
 not extorted into doing it or hacked.
@@ -67,7 +67,7 @@ regarding malware concerns and an operator of iistupid.com / a contributor
 to github.com/iireborn.
 
 2. I have read this summary dated 27th September, 2026 published at
-https://github.com/iireborn/transparency/27_09_26_poison/README.md in full.
+[https://github.com/iireborn/transparency/27_09_26_poison/README.md](https://github.com/iireborn/transparency/27_09_26_poison/README.md) in full.
 
 3. I stand by my message that was said in the group chat explaining the purpose and use of the 'malicious' shell command.
 
