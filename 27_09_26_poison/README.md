@@ -82,7 +82,8 @@ in this matter.
 
 Dated: 27th September, 2026
 
----
+`--- e4cc9a1afcecbb2cba7c7696a83c37fab4cc28e5 ---`
+
 I, Notlucy / !Lucy (noob123ii) confirm that:
 
 1. I am a related person in the cited group chat dated 27th September 2026
@@ -104,4 +105,5 @@ in this matter.
 Dated: 27th September, 2026
 
 ---
-[replace this bracket]
+
+iiDrifted chose to not be involved in this matter, that decision is respected. No signature from them. End.
