@@ -34,30 +34,6 @@ An independent reading of the script by a team member, 21:26 UTC: "**the install
 
 The authorization of related persons to this response is recorded below. Each appends the statement below, completed with their own details, in a commit made under their own GitHub account.
 
-```
-I, [full name, or, privacy-respecting, any alias] (GitHub: [username], Discord: [handle, if any]), confirm that:
-
-1. I am a related person in the cited group chat dated 27th September 2026
-regarding malware concerns and an operator of iistupid.com / a contributor
-to github.com/iireborn.
-
-2. I have read this summary dated 27th September, 2026 published at
-https://github.com/iireborn/transparency/27_09_26_poison/README.md in full.
-
-3. I stand by my witness statement present in the Discord group chat
-export, introduced in commit 640e65d63c18d3b152506b484495c3bfa3d1f041.
-
-4. I wrote my statement voluntarily, under no pressure, and I was
-not extorted into doing it or hacked.
-
-5. I authorize Florian Kolb (corgisolutions) to transmit such points
-and opinions on my behalf, and to correspond with Poison (Seralyth),
-regarding any future concerns, accusations, and threats, on my behalf
-in this matter.
-
-Dated: 27th September, 2026
-```
-
 `--- b67cd74b2f8e830bcec0c292796748fb603c15fc --- `
 
 I, TheUselessCreator (GitHub: TheUselessCreator, Discord: theuselesscreator confirm that:
