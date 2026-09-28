@@ -83,5 +83,25 @@ in this matter.
 Dated: 27th September, 2026
 
 ---
+I, Notlucy / !Lucy (noob123ii) confirm that:
 
+1. I am a related person in the cited group chat dated 27th September 2026
+regarding malware concerns and an operator of iistupid.com / a contributor
+to github.com/iireborn.
+
+2. I have read this summary dated 27th September, 2026 published at
+https://github.com/iireborn/transparency/27_09_26_poison/README.md in full.
+
+3. I stand by my message that was said in the group chat explaining the purpose and use of the 'malicious' shell command.
+
+4. During the writing of my messages I was in no form of pressure and I didn't feel extorted or blackmailed into conveying those points. I wrote it with my own intent.
+
+5. I authorize Florian Kolb (corgisolutions) to transmit such points
+and opinions on my behalf, and to correspond with Poison (Seralyth),
+regarding any future concerns, accusations, and threats, on my behalf
+in this matter.
+
+Dated: 27th September, 2026
+
+---
 [replace this bracket]
