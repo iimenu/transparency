@@ -8,6 +8,8 @@ Correspondence and documentation relating to legal notices, accusations, and oth
 
 27th September 2026, Poison (Seralyth), theoretical concern/suspicion of malware: [27_09_26_poison](27_09_26_poison/README.md)
 
+3rd October 2026, public disclosure of unlawful telemetry and personal data breach: [03_10_26_telemetry](03_10_26_telemetry/DISCLOSURE.md)
+
 ## Contents
 
 All original notices are preserved verbatim and unaltered. Responses are published as sent, with only the omission of Authorization sections. Nothing in this repository has been edited after the fact.
