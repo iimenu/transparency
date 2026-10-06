@@ -10,7 +10,7 @@ Published 6th October 2026 at https://legal.ii.corgi.st/05_10_26_organization/RE
 
 I, **Florian Kolb** (known as github.com/**corgisolutions**, t.me/**florcorgi**) [**corgi@aster.cx**], write as an authorized representative of the operator of ii Reborn (iistupid.com, github.com/iimenu), which has authorized this disclosure.
 
-On **5 October 2026**, the GitHub organization "**iireborn**" was taken over by a former member, **TheUselessCreator**, together with an external party, **heycanihavethis** (assuming "snake" or "lucent"), who had never been a member of the organization. The owner of the GitHub account heycanihavethis owns the repository "Poison" and is a primary contributor to it. Poison, formerly known as Seralyth, is a competing fork of the same menu. The accusations of malware against this project by that team are documented in the transparency record at [27_09_26_poison](27_09_26_poison/README.md). This incident extends those accusations from code claims to direct action.
+On **5 October 2026**, the GitHub organization "**iireborn**" was taken over by a former member, **TheUselessCreator**, together with an external party, **heycanihavethis** (assuming "snake" or "lucent"), who had never been a member of the organization. The owner of the GitHub account heycanihavethis owns the repository "Poison" and is a primary contributor to it. Poison, formerly known as Seralyth, is a competing fork of the same menu. The accusations of malware against this project by that team are documented in the transparency record at [27_09_26_poison](../27_09_26_poison/README.md). This incident extends those accusations from code claims to direct action.
 
 During the incident, King, the sole organization owner, was removed from the organization. The repositories were defaced, the transparency and legal documentation was deleted, a release binary was replaced, and production services were disrupted. On 6 October, GitHub Staff disabled the repository iireborn/menu. On 5 October, a bot inside our Discord server deleted channels, including the general chat. The bot was quarantined after two deletions and banned. All operations have been moved and are running normally.
 
@@ -22,7 +22,7 @@ The current release requires a cryptographic signature for every update action. 
 
 **3. Access.**
 
-TheUselessCreator was removed from the organization at the start of October, following the removal of another member on 3 October for unrelated reasons documented in [03_10_26_telemetry](03_10_26_telemetry/DISCLOSURE.md). At the time of the incident, **TheKing13245** (further: **King**) was the sole owner. No legitimate member of the organization re-added TheUselessCreator or invited heycanihavethis.
+TheUselessCreator was removed from the organization at the start of October, following the removal of another member on 3 October for unrelated reasons documented in [03_10_26_telemetry](../03_10_26_telemetry/DISCLOSURE.md). At the time of the incident, **TheKing13245** (further: **King**) was the sole owner. No legitimate member of the organization re-added TheUselessCreator or invited heycanihavethis.
 
 Two facts narrow how the access was regained. First, only an owner can add or re-add members, and King, the only owner, was asleep with his computer off during the incident window. Nobody inside the organization could have performed the action due to member status. Second, the organization enforced two-factor authentication, and no member account was compromised; no credentials, sessions, or authentication events were affected.
 
