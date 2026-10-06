@@ -8,13 +8,15 @@ Documents written before October 5th, 2026 may refer to "iireborn" as the organi
 
 ## Manifest
 
-25th September 2026, Grayson (crimsoncauldron), Administrator, Goldentrophy Software, notice of GNU GPL v3 Violation and Cease and Desist: [25_09_26_grayson](25_09_26_grayson/README.md)
+✅ - **resolved** (we have received no further correspondence regarding the matter, including but not limited to objections, or any other compliant action was done on our side)
 
-27th September 2026, Poison (Seralyth), theoretical concern/suspicion of malware: [27_09_26_poison](27_09_26_poison/README.md)
+25th September 2026, Grayson (crimsoncauldron), Administrator, Goldentrophy Software, notice of GNU GPL v3 Violation and Cease and Desist: [25_09_26_grayson](25_09_26_grayson/README.md) ✅
 
-3rd October 2026, public disclosure of unlawful telemetry and personal data breach: [03_10_26_telemetry](03_10_26_telemetry/DISCLOSURE.md)
+27th September 2026, Poison (Seralyth), theoretical concern/suspicion of malware: [27_09_26_poison](27_09_26_poison/README.md) ✅
 
-5th October 2026, incident report of GitHub organization takeover (iireborn -> **iimenu**): [05_10_26_organization](05_10_26_organization/REPORT.md)
+3rd October 2026, public disclosure of unlawful telemetry and personal data breach: [03_10_26_telemetry](03_10_26_telemetry/DISCLOSURE.md) ✅
+
+5th October 2026, incident report of GitHub organization takeover (iireborn -> **iimenu**): [05_10_26_organization](05_10_26_organization/REPORT.md) ✅
 
 ## Contents
 
