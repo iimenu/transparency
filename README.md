@@ -1,5 +1,7 @@
 # transparency
 
+*also hosted by GitHub pages at https://legal.ii.corgi.st/*
+
 Correspondence and documentation relating to legal notices, accusations, and other complaints received by the operators of iistupid.com and github.com/iimenu.
 
 Documents written before October 5th, 2026 may refer to "iireborn" as the organization. This is no longer authoritative. All paths are mirrored on "iimenu".
