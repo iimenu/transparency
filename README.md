@@ -14,6 +14,8 @@ Documents written before October 5th, 2026 may refer to "iireborn" as the organi
 
 3rd October 2026, public disclosure of unlawful telemetry and personal data breach: [03_10_26_telemetry](03_10_26_telemetry/DISCLOSURE.md)
 
+5th October 2026, incident report of GitHub organization takeover (iireborn -> **iimenu**): [05_10_26_organization](05_10_26_organization/REPORT.md)
+
 ## Contents
 
 All original notices are preserved verbatim and unaltered. Responses are published as sent, with only the omission of Authorization sections. Nothing in this repository has been edited after the fact.
