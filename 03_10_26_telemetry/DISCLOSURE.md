@@ -136,3 +136,17 @@ The body of `d682d2b` says: "Client: delete the Tauri telemetry host module that
 On 3rd October 2026 the operator removed from the project the developer responsible for the collection and the statements recorded above. The telemetry code will be removed as well. When that lands there is no session journal, no hourly pulse, no posting to the staff channel and no telemetry preference left in the codebase, and the open items of 10.3 close with it.
 
 This disclosure is closed.
+
+---
+
+**Correction to the announcement of 3 October 2026**
+
+The announcement of 3 October 2026 stated: "We erased all of it, including the channel it was posted to and the database behind it".
+
+The precise state of each measure is as follows. The 2 Discord channels containing the session journals and AI transcripts were deleted in full on 3 October, this material existed nowhere else and its deletion is complete. The identifier rows in the database, account names, computer names, and IP addresses, were purged by migration on 3 October, with a recurring task that removes any that reappear. The remaining telemetry rows in the database, feature usage counts and session presence records, had no deletion path in the code, and the database itself sits on infrastructure controlled by the former developer and is not accessible to us, its current state is not something we can verify. Database backups, if they exist on that infrastructure, expire up to 30 days after creation under the disclosed retention practice.
+
+The original announcement was written to tell affected users, immediately and plainly, that the collection had ended and the collected material was being removed. The deletion of the channels and the purge of the identifier rows accomplish that purpose. The statement about the database was broader than what we could verify then and can verify now, and this correction states the record as it stands.
+
+Published 7th October 2026, unprompted.
+
+---
