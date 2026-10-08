@@ -147,6 +147,6 @@ The precise state of each measure is as follows. The 2 Discord channels containi
 
 The original announcement was written to tell affected users, immediately and plainly, that the collection had ended and the collected material was being removed. The deletion of the channels and the purge of the identifier rows accomplish that purpose. The statement about the database was broader than what we could verify then and can verify now, and this correction states the record as it stands.
 
-Published 7th October 2026, unprompted.
+Published 8th October 2026 (UTC), unprompted.
 
 ---
